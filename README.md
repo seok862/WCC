@@ -100,29 +100,37 @@ OpenVidu와 faceAPI를 이용하여 화상채팅을 통해 게임을 진행하�
 ### **5-2. 게임 UI**
 #### 게임 실행
 1. 매칭
+
 ![game_matching](/Docs/gif/game_matching.gif)
 
 2. 매칭 수락
+
 ![game_accept](/Docs/gif/game_accept.gif)
 
 3. 미션 선택
+
 ![game_choice](/Docs/gif/game_choice.gif)
 
 4. 게임 시작
+
 ![game_first](/Docs/gif/game_first.gif)
 
 5. 채팅
+
 ![game_chating](/Docs/gif/game_chating.gif)
 
 6. 다음 순서 대기
+
 ![game_wait](/Docs/gif/game_wait.gif)
 
 7. 게임 결과
+
 ![gmae](/Docs/gif/game_end.gif)
+
 ## 🧑‍🤝‍🧑 5. 멤버 구성
 |                                김석주                                 |                                박예한                                 |                                옥수빈                                 |                                왕준영                                 |                                이주용                                 |                                              임휘진                                              |
 |:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 | <img src="Docs/image/김석주.jpg" width="80px;" height="80px" alt=""/> | <img src="Docs/image/박예한.jpg" width="80px;" height="80px" alt=""/> | <img src="Docs/image/옥수빈.jpg" width="80px;" height="80px" alt=""/> | <img src="Docs/image/왕준영.jpg" width="80px;" height="80px" alt=""/> | <img src="Docs/image/이주용.jpg" width="80px;" height="80px" alt=""/> | <img src="Docs/image/임휘진.png" width="80px;" height="80px" alt=""/> |
-|                      Back-end<br/>Api Server                       |                   Back-end<br/>Infra<br/>Api 서버                    |                           Front-end<br/>                           |                      Back-end<br/>Game Sever                       |                       Front-end<br/>                     |                                    Front-end<br/>                                  |
+|                      Back-end<br/>Api Server                       |                   Back-end<br/>Infra<br/>                    |                           Front-end<br/>                           |                      Back-end<br/>Game Sever                       |                       Front-end<br/>                     |                                    Front-end<br/>                                  |
 
 <br/>
